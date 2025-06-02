@@ -7,7 +7,7 @@ body {
     height: 100vh;               /* Faz o body ocupar 100% da altura da tela */
     margin: 0;                   /* Remove a margem padrão */
     text-align: center;          /* Centraliza os textos */
-    background-image: url('programaçao09.jpeg');
+    background-image: url('campo2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,14 +26,14 @@ img {
 
 /* Estilo para o título h1 */
 h1 {
-    color: #ffffff;              /* Cor branca como exemplo */
+    color: #000000;              /* Cor preta como exemplo */
     font-size: 3rem;             /* Tamanho do texto */
     margin-top: 20px;            /* Espaço superior */
 }
 
 /* Estilo para o subtítulo h2 */
 h2 {
-    color: #eeeeee;              /* Cor clara como exemplo */
+    color: #000000;              /* Cor escura como exemplo */
     font-size: 2rem;             /* Tamanho do texto */
     margin-top: 10px;            /* Espaço superior */
 }
